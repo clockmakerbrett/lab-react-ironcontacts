@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+img {
+  max-width: 5rem;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+th {
+  font-size: 1.25rem;
+}
+
+td {
+  text-align: center;
+}
+
+p {
+  font-size: 1.25rem;
+  padding: 1rem;
+  width: 6rem;
+}
+
+button {
+  font-size: 1.5rem;
+}
